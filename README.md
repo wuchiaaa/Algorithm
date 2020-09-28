@@ -1,3 +1,3 @@
 # Algorithm
 
-1. 排序
+1. sort
